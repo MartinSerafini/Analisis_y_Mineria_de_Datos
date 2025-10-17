@@ -1,0 +1,837 @@
+Year,Holiday,Cumulative Gross,Releases,#1_Release,#1_Gross
+1989,New Year's Eve,1715715.0,2.0,Back to the Future Part II,1675065.0
+1989,Christmas Day,898190.0,2.0,Back to the Future Part II,851310.0
+1989,Christmas Weekend,45702925.0,24.0,National Lampoon's Christmas Vacation,7007789.0
+1989,Post-Thanksgiving Weekend,49740789.0,14.0,Back to the Future Part II,12110340.0
+1989,Thanksgiving Weekend,79985363.0,14.0,Back to the Future Part II,27835125.0
+1989,Thanksgiving 4-Day Weekend,36408317.0,3.0,Back to the Future Part II,35780025.0
+1989,Thanksgiving,8047153.0,3.0,Back to the Future Part II,7944900.0
+1989,Thanksgiving 5-Day Weekend,43721878.0,3.0,Back to the Future Part II,43016225.0
+1989,Halloween,124381.0,2.0,Batman,72001.0
+1989,Indigenous People's Day,363034.0,2.0,Parenthood,274025.0
+1989,Indigenous People's Day Weekend,35935567.0,17.0,Black Rain,6100000.0
+1989,Labor Day,2224450.0,3.0,Parenthood,1424751.0
+1989,Labor Day Weekend,58699756.0,20.0,Uncle Buck,7822640.0
+1989,Independence Day,7660936.0,3.0,Batman,5744783.0
+1989,Independence Day Weekend,56670030.0,3.0,Batman,43558567.0
+1989,Memorial Day,7676552.0,1.0,Indiana Jones and the Last Crusade,7676552.0
+1989,Memorial Day Weekend,69952510.0,15.0,Indiana Jones and the Last Crusade,37031573.0
+1989,Easter,176000.0,1.0,Twins,176000.0
+1989,Easter Weekend,847005.0,1.0,Twins,847005.0
+1989,President's Day,332750.0,1.0,Twins,332750.0
+1989,President's Day Weekend,61798263.0,18.0,The 'Burbs,11101197.0
+1989,MLK Day,969255.0,1.0,Twins,969255.0
+1989,MLK Day Weekend,7717455.0,1.0,Twins,7717455.0
+1989,New Year's Day,3296720.0,1.0,Twins,3296720.0
+1989,New Year Weekend,80922672.0,23.0,The War of the Roses,10490781.0
+1990,New Year's Eve,2392890.0,1.0,Kindergarten Cop,2392890.0
+1990,Christmas Day,8583771.0,2.0,The Godfather Part III,6387271.0
+1990,Christmas Weekend,79529186.0,24.0,Home Alone,15079919.0
+1990,Post-Thanksgiving Weekend,54459183.0,14.0,Home Alone,14386876.0
+1990,Thanksgiving Weekend,77304707.0,15.0,Home Alone,20987761.0
+1990,Thanksgiving 4-Day Weekend,0.0,,-,0.0
+1990,Thanksgiving 5-Day Weekend,0.0,,-,0.0
+1990,Indigenous People's Day Weekend,48703704.0,17.0,Marked for Death,11790047.0
+1990,Labor Day,100594.0,1.0,Total Recall,100594.0
+1990,Labor Day Weekend,59283181.0,19.0,Ghost,9953630.0
+1990,Independence Day,1407420.0,2.0,Total Recall,823620.0
+1990,Memorial Day,4613415.0,1.0,Back to the Future Part III,4613415.0
+1990,Memorial Day Weekend,67636727.0,13.0,Back to the Future Part III,23703060.0
+1990,Easter,0.0,,-,0.0
+1990,Easter Weekend,0.0,,-,0.0
+1990,President's Day,139650.0,1.0,Back to the Future Part II,139650.0
+1990,President's Day Weekend,56541914.0,23.0,Driving Miss Daisy,9834744.0
+1990,MLK Day,500505.0,1.0,Back to the Future Part II,500505.0
+1990,MLK Day Weekend,3249365.0,1.0,Back to the Future Part II,3249365.0
+1990,New Year's Day,1681400.0,2.0,Back to the Future Part II,1643460.0
+1990,New Year Weekend,134814585.0,24.0,Home Alone,25148406.0
+1991,New Year's Eve,3636750.0,1.0,Hook,3636750.0
+1991,Christmas Day,2868960.0,1.0,Hook,2868960.0
+1991,Post-Thanksgiving Weekend,51745962.0,18.0,Star Trek VI: The Undiscovered Country,18162837.0
+1991,Thanksgiving Weekend,69649364.0,16.0,The Addams Family,20133616.0
+1991,Thanksgiving 4-Day Weekend,0.0,,-,0.0
+1991,Thanksgiving,0.0,,-,0.0
+1991,Thanksgiving 5-Day Weekend,0.0,,-,0.0
+1991,Halloween,47734.0,1.0,Terminator 2: Judgment Day,47734.0
+1991,Indigenous People's Day,79560.0,1.0,Terminator 2: Judgment Day,79560.0
+1991,Indigenous People's Day Weekend,42960815.0,20.0,The Fisher King,4993580.0
+1991,Labor Day,940610.0,1.0,Terminator 2: Judgment Day,940610.0
+1991,Labor Day Weekend,52377453.0,21.0,Dead Again,6315869.0
+1991,Independence Day,8883770.0,2.0,Terminator 2: Judgment Day,8879970.0
+1991,Memorial Day,3060980.0,2.0,Backdraft,3037280.0
+1991,Memorial Day Weekend,68385333.0,19.0,Backdraft,15723480.0
+1991,Easter,193280.0,1.0,Kindergarten Cop,193280.0
+1991,Easter Weekend,861560.0,1.0,Kindergarten Cop,861560.0
+1991,President's Day,275520.0,1.0,Kindergarten Cop,275520.0
+1991,President's Day Weekend,78542635.0,19.0,The Silence of the Lambs,13766814.0
+1991,MLK Day,1018440.0,1.0,Kindergarten Cop,1018440.0
+1991,MLK Day Weekend,76998122.0,25.0,Home Alone,11069157.0
+1991,New Year's Day,2988710.0,1.0,Kindergarten Cop,2988710.0
+1992,New Year's Eve,3838175.0,3.0,A Few Good Men,3372293.0
+1992,Christmas Day,7627114.0,4.0,A Few Good Men,3360029.0
+1992,Post-Thanksgiving Weekend,59055311.0,16.0,Home Alone 2: Lost in New York,12425234.0
+1992,Thanksgiving Weekend,97079671.0,15.0,Home Alone 2: Lost in New York,28616454.0
+1992,Thanksgiving 4-Day Weekend,76527.0,1.0,Unforgiven,76527.0
+1992,Thanksgiving,15578.0,1.0,Unforgiven,15578.0
+1992,Thanksgiving 5-Day Weekend,90120.0,1.0,Unforgiven,90120.0
+1992,Halloween,31302.0,1.0,Unforgiven,31302.0
+1992,Indigenous People's Day,80697.0,2.0,Unforgiven,50719.0
+1992,Indigenous People's Day Weekend,55593491.0,17.0,Under Siege,15760003.0
+1992,Labor Day,1596674.0,2.0,Unforgiven,1369297.0
+1992,Labor Day Weekend,46138714.0,18.0,Honeymoon in Vegas,9170428.0
+1992,Independence Day,4134885.0,2.0,Batman Returns,3966411.0
+1992,Memorial Day,7077781.0,3.0,Alien³,3691321.0
+1992,Memorial Day Weekend,89253336.0,15.0,Lethal Weapon 3,27567462.0
+1992,Easter,1494860.0,1.0,Basic Instinct,1494860.0
+1992,Easter Weekend,7337575.0,1.0,Basic Instinct,7337575.0
+1992,President's Day,410440.0,1.0,Hook,410440.0
+1992,President's Day Weekend,72906550.0,16.0,Wayne's World,18122710.0
+1992,MLK Day,1131965.0,1.0,Hook,1131965.0
+1992,MLK Day Weekend,81674103.0,19.0,The Hand That Rocks the Cradle,11839246.0
+1992,New Year's Day,4028400.0,1.0,Hook,4028400.0
+1993,New Year's Eve,1148611.0,3.0,Batman: Mask of the Phantasm,469816.0
+1993,Christmas Day,1253992.0,3.0,Batman: Mask of the Phantasm,557134.0
+1993,Post-Thanksgiving Weekend,43373593.0,15.0,Mrs. Doubtfire,14735459.0
+1993,Thanksgiving Weekend,76914103.0,19.0,Mrs. Doubtfire,20468847.0
+1993,Thanksgiving 4-Day Weekend,2209920.0,1.0,Jurassic Park,2209920.0
+1993,Thanksgiving,354200.0,1.0,Jurassic Park,354200.0
+1993,Thanksgiving 5-Day Weekend,2502520.0,1.0,Jurassic Park,2502520.0
+1993,Halloween,131600.0,1.0,Jurassic Park,131600.0
+1993,Indigenous People's Day,112015.0,1.0,Jurassic Park,112015.0
+1993,Indigenous People's Day Weekend,68852609.0,17.0,Demolition Man,15973850.0
+1993,Labor Day,1511447.0,2.0,Jurassic Park,908825.0
+1993,Labor Day Weekend,67578289.0,20.0,The Fugitive,17239413.0
+1993,Independence Day,6736202.0,5.0,Jurassic Park,4829760.0
+1993,Independence Day Weekend,121647503.0,15.0,The Firm,32476785.0
+1993,Memorial Day,4870324.0,5.0,Cliffhanger,4281055.0
+1993,Memorial Day Weekend,84030468.0,17.0,Cliffhanger,20458022.0
+1993,Easter,1060413.0,4.0,Unforgiven,446021.0
+1993,Easter Weekend,5333567.0,4.0,Unforgiven,2183015.0
+1993,President's Day,2946003.0,4.0,Groundhog Day,2134436.0
+1993,President's Day Weekend,73301759.0,20.0,Groundhog Day,14652108.0
+1993,MLK Day,1867083.0,4.0,A Few Good Men,975738.0
+1993,MLK Day Weekend,75051860.0,22.0,Aladdin,10920346.0
+1993,New Year's Day,6276076.0,3.0,A Few Good Men,5047556.0
+1994,New Year's Eve,3511446.0,2.0,Little Women,2001126.0
+1994,Christmas Day,4571627.0,2.0,Street Fighter,2339425.0
+1994,Christmas Weekend,85028950.0,25.0,Dumb and Dumber,15586425.0
+1994,Post-Thanksgiving Weekend,48322082.0,14.0,The Santa Clause,11390638.0
+1994,Thanksgiving Weekend,94569390.0,20.0,The Santa Clause,20437607.0
+1994,Thanksgiving 4-Day Weekend,0.0,,-,0.0
+1994,Thanksgiving,0.0,,-,0.0
+1994,Thanksgiving 5-Day Weekend,0.0,,-,0.0
+1994,Indigenous People's Day,40905.0,2.0,The Flintstones,20895.0
+1994,Indigenous People's Day Weekend,475385.0,2.0,Jurassic Park,303250.0
+1994,Labor Day,315195.0,2.0,Jurassic Park,163815.0
+1994,Labor Day Weekend,84416885.0,23.0,Forrest Gump,12221147.0
+1994,Independence Day,785665.0,2.0,The Flintstones,731250.0
+1994,Independence Day Weekend,107418100.0,14.0,The Lion King,34208876.0
+1994,Memorial Day,10469390.0,3.0,The Flintstones,7494015.0
+1994,Memorial Day Weekend,94461460.0,14.0,The Flintstones,37182745.0
+1994,Easter,1040370.0,3.0,Schindler's List,905210.0
+1994,Easter Weekend,4758935.0,3.0,Schindler's List,4208195.0
+1994,President's Day,1717400.0,3.0,Reality Bites,890475.0
+1994,President's Day Weekend,80436192.0,19.0,On Deadly Ground,12679573.0
+1994,MLK Day,565016.0,3.0,Schindler's List,453600.0
+1994,MLK Day Weekend,78211652.0,25.0,Philadelphia,13817010.0
+1994,New Year's Day,1463886.0,3.0,Schindler's List,618175.0
+1994,New Year Weekend,105186264.0,22.0,Dumb and Dumber,14929291.0
+1995,New Year's Eve,4089216.0,1.0,Toy Story,4089216.0
+1995,Christmas Day,2255251.0,1.0,Toy Story,2255251.0
+1995,Christmas Weekend,91218984.0,23.0,Waiting to Exhale,14126927.0
+1995,Post-Thanksgiving Weekend,61341785.0,14.0,Toy Story,20164662.0
+1995,Thanksgiving Weekend,107060403.0,16.0,Toy Story,29140617.0
+1995,Thanksgiving 4-Day Weekend,34406554.0,2.0,Toy Story,34265779.0
+1995,Thanksgiving,5152222.0,2.0,Toy Story,5125162.0
+1995,Thanksgiving 5-Day Weekend,39232451.0,2.0,Toy Story,39071176.0
+1995,Halloween,50063.0,2.0,Apollo 13,41325.0
+1995,Indigenous People's Day,47925.0,2.0,Apollo 13,37260.0
+1995,Indigenous People's Day Weekend,514949.0,2.0,Apollo 13,377240.0
+1995,Labor Day,1041951.0,3.0,Apollo 13,551950.0
+1995,Labor Day Weekend,72389776.0,23.0,Mortal Kombat,8288323.0
+1995,Independence Day,9728247.0,4.0,Apollo 13,6052735.0
+1995,Independence Day Weekend,65330300.0,4.0,Apollo 13,38469470.0
+1995,Memorial Day,9777236.0,4.0,Casper,5251590.0
+1995,Memorial Day Weekend,107675040.0,16.0,Casper,22091975.0
+1995,Easter,3325383.0,1.0,Bad Boys,3325383.0
+1995,Easter Weekend,12420473.0,1.0,Bad Boys,12420473.0
+1995,President's Day,79630.0,1.0,Street Fighter,79630.0
+1995,President's Day Weekend,67231731.0,20.0,The Brady Bunch Movie,14827066.0
+1995,MLK Day,1221073.0,2.0,Little Women,911393.0
+1995,MLK Day Weekend,97573191.0,20.0,Legends of the Fall,14038128.0
+1995,New Year's Day,4306250.0,2.0,Little Women,2292490.0
+1995,New Year Weekend,136810057.0,26.0,Toy Story,19395010.0
+1996,New Year's Eve,2942562.0,3.0,Jerry Maguire,2879210.0
+1996,Christmas Day,3176071.0,3.0,Jerry Maguire,3103856.0
+1996,Post-Thanksgiving Weekend,55039211.0,18.0,101 Dalmatians,13944053.0
+1996,Thanksgiving Weekend,108128486.0,18.0,101 Dalmatians,33504025.0
+1996,Thanksgiving 4-Day Weekend,359384.0,1.0,Independence Day,359384.0
+1996,Thanksgiving,64102.0,1.0,Independence Day,64102.0
+1996,Thanksgiving 5-Day Weekend,410864.0,1.0,Independence Day,410864.0
+1996,Halloween,115176.0,1.0,Independence Day,115176.0
+1996,Indigenous People's Day,143074.0,1.0,Independence Day,143074.0
+1996,Indigenous People's Day Weekend,1439753.0,1.0,Independence Day,1439753.0
+1996,Labor Day,1170304.0,1.0,Independence Day,1170304.0
+1996,Labor Day Weekend,80584172.0,24.0,The Crow: City of Angels,9785111.0
+1996,Independence Day,19913084.0,4.0,Independence Day,17343388.0
+1996,Memorial Day,19696048.0,2.0,Mission: Impossible,11374772.0
+1996,Memorial Day Weekend,123202152.0,13.0,Mission: Impossible,56811602.0
+1996,Easter,0.0,,-,0.0
+1996,Easter Weekend,0.0,,-,0.0
+1996,President's Day,1446128.0,2.0,City Hall,1061648.0
+1996,President's Day Weekend,88968608.0,27.0,Broken Arrow,13459777.0
+1996,MLK Day,1496048.0,1.0,Toy Story,1496048.0
+1996,MLK Day Weekend,102682702.0,23.0,12 Monkeys,11501140.0
+1996,New Year's Day,3806234.0,1.0,Toy Story,3806234.0
+1997,New Year's Eve,15185045.0,7.0,Titanic,8213735.0
+1997,Christmas Day,25700077.0,14.0,Titanic,9178529.0
+1997,Post-Thanksgiving Weekend,44531634.0,15.0,Flubber,11292933.0
+1997,Thanksgiving Weekend,103938065.0,19.0,Flubber,26725207.0
+1997,Thanksgiving 4-Day Weekend,7574342.0,4.0,Starship Troopers,3419211.0
+1997,Thanksgiving,1175457.0,4.0,Starship Troopers,665774.0
+1997,Thanksgiving 5-Day Weekend,8445232.0,4.0,Starship Troopers,3942054.0
+1997,Halloween,1950955.0,4.0,The Devil's Advocate,1530906.0
+1997,Indigenous People's Day,635505.0,5.0,The Peacemaker,539429.0
+1997,Indigenous People's Day Weekend,6692408.0,5.0,The Peacemaker,5748075.0
+1997,Labor Day,2840608.0,5.0,Air Force One,1835743.0
+1997,Labor Day Weekend,87553350.0,24.0,G.I. Jane,10282285.0
+1997,Independence Day,19640271.0,6.0,Men in Black,15722315.0
+1997,Memorial Day,20320301.0,4.0,The Lost World: Jurassic Park,18029095.0
+1997,Memorial Day Weekend,140728067.0,18.0,The Lost World: Jurassic Park,90161880.0
+1997,Easter,6984577.0,3.0,Liar Liar,6476310.0
+1997,Easter Weekend,30951657.0,3.0,Liar Liar,28726185.0
+1997,President's Day,8043287.0,5.0,Star Wars: Episode IV - A New Hope1997 Special Edition,3831315.0
+1997,President's Day Weekend,116551323.0,29.0,Star Wars: Episode IV - A New Hope1997 Special Edition,21370589.0
+1997,MLK Day,2329341.0,2.0,Evita,1389175.0
+1997,MLK Day Weekend,93618559.0,21.0,Beverly Hills Ninja,12220920.0
+1997,New Year's Day,3872395.0,3.0,Jerry Maguire,3462509.0
+1998,New Year's Eve,21013038.0,6.0,Patch Adams,6142680.0
+1998,Christmas Day,32813178.0,8.0,Patch Adams,8081760.0
+1998,Post-Thanksgiving Weekend,66387194.0,19.0,A Bug's Life,17174218.0
+1998,Thanksgiving Weekend,125578859.0,19.0,A Bug's Life,33258052.0
+1998,Thanksgiving 4-Day Weekend,41673088.0,2.0,A Bug's Life,40585387.0
+1998,Thanksgiving,7462137.0,2.0,A Bug's Life,7327335.0
+1998,Thanksgiving 5-Day Weekend,46935463.0,2.0,A Bug's Life,45739516.0
+1998,Halloween,1664884.0,4.0,Antz,1388487.0
+1998,Indigenous People's Day,2648404.0,4.0,Antz,2402168.0
+1998,Indigenous People's Day Weekend,19063164.0,4.0,Antz,17116086.0
+1998,Labor Day,2922300.0,6.0,Saving Private Ryan,2034621.0
+1998,Labor Day Weekend,78756126.0,29.0,There's Something About Mary,10920201.0
+1998,Independence Day,2615115.0,5.0,The X Files,1824784.0
+1998,Memorial Day,16719017.0,7.0,Godzilla,11679410.0
+1998,Memorial Day Weekend,124319217.0,16.0,Godzilla,55726951.0
+1998,Easter,2871238.0,4.0,Titanic,1795410.0
+1998,Easter Weekend,14725809.0,5.0,Titanic,9571989.0
+1998,President's Day,6668614.0,5.0,Titanic,4708477.0
+1998,President's Day Weekend,121575110.0,21.0,Titanic,32876424.0
+1998,MLK Day,9748658.0,6.0,Titanic,6003510.0
+1998,MLK Day Weekend,123643859.0,22.0,Titanic,36014544.0
+1998,New Year's Day,25328527.0,8.0,Titanic,11558520.0
+1999,New Year's Eve,21644789.0,10.0,Stuart Little,5052000.0
+1999,Christmas Day,32822167.0,10.0,The Talented Mr. Ripley,6389000.0
+1999,Post-Thanksgiving Weekend,80277174.0,66.0,Toy Story 2,27760276.0
+1999,Thanksgiving Weekend,159709240.0,61.0,Toy Story 2,57388839.0
+1999,Thanksgiving 4-Day Weekend,107717980.0,8.0,Toy Story 2,70531873.0
+1999,Thanksgiving,19875759.0,7.0,Toy Story 2,13143034.0
+1999,Thanksgiving 5-Day Weekend,122937210.0,8.0,Toy Story 2,80102784.0
+1999,Halloween,15322334.0,20.0,House on Haunted Hill,4401000.0
+1999,Indigenous People's Day,6340353.0,14.0,Double Jeopardy,1452111.0
+1999,Indigenous People's Day Weekend,63740506.0,14.0,Double Jeopardy,14993396.0
+1999,Labor Day,21450810.0,21.0,The Sixth Sense,6374179.0
+1999,Labor Day Weekend,98217756.0,22.0,The Sixth Sense,29271146.0
+1999,Independence Day,15898076.0,8.0,Wild Wild West,7298242.0
+1999,Independence Day Weekend,79915264.0,8.0,Wild Wild West,36434750.0
+1999,Memorial Day,26524549.0,7.0,Star Wars: Episode I - The Phantom Menace,15504435.0
+1999,Memorial Day Weekend,142527400.0,63.0,Star Wars: Episode I - The Phantom Menace,66904298.0
+1999,Easter,8241914.0,4.0,The Matrix,7869148.0
+1999,Easter Weekend,33325185.0,4.0,The Matrix,31639466.0
+1999,President's Day,1933261.0,7.0,Saving Private Ryan,592404.0
+1999,President's Day Weekend,116236274.0,62.0,Message in a Bottle,18852976.0
+1999,MLK Day,8839305.0,7.0,Varsity Blues,2311575.0
+1999,MLK Day Weekend,125265914.0,60.0,Varsity Blues,17515723.0
+1999,New Year's Day,28609586.0,6.0,Patch Adams,8046675.0
+2000,New Year's Eve,29483342.0,20.0,Cast Away,8532000.0
+2000,Christmas Day,33685786.0,18.0,Cast Away,10968669.0
+2000,Christmas Weekend,154863416.0,61.0,Cast Away,39852075.0
+2000,Post-Thanksgiving Weekend,88566388.0,60.0,How the Grinch Stole Christmas,27096630.0
+2000,Thanksgiving Weekend,176551210.0,63.0,How the Grinch Stole Christmas,52118445.0
+2000,Thanksgiving 4-Day Weekend,163017420.0,12.0,How the Grinch Stole Christmas,64153005.0
+2000,Thanksgiving,30107852.0,11.0,How the Grinch Stole Christmas,12034560.0
+2000,Thanksgiving 5-Day Weekend,185379900.0,12.0,How the Grinch Stole Christmas,73523665.0
+2000,Halloween,1850149.0,9.0,Meet the Parents,992625.0
+2000,Indigenous People's Day,6647824.0,10.0,Meet the Parents,3541970.0
+2000,Indigenous People's Day Weekend,61203642.0,10.0,Meet the Parents,32165270.0
+2000,Labor Day,12262001.0,16.0,Bring It On,2723330.0
+2000,Labor Day Weekend,104801241.0,64.0,Bring It On,14170825.0
+2000,Independence Day,23181941.0,14.0,The Perfect Storm,9020972.0
+2000,Independence Day Weekend,158465755.0,14.0,The Perfect Storm,62742422.0
+2000,Memorial Day,25898850.0,13.0,Mission: Impossible II,12970918.0
+2000,Memorial Day Weekend,184326226.0,63.0,Mission: Impossible II,70816215.0
+2000,Easter,17551955.0,14.0,U-571,4481505.0
+2000,Easter Weekend,74620570.0,10.0,U-571,21400155.0
+2000,President's Day,16416918.0,14.0,Snow Day,3735134.0
+2000,President's Day Weekend,133627286.0,64.0,The Whole Nine Yards,15915676.0
+2000,MLK Day,15838975.0,14.0,Stuart Little,3104939.0
+2000,MLK Day Weekend,127735048.0,62.0,Next Friday,16918226.0
+2000,New Year's Day,43269337.0,10.0,Stuart Little,6762000.0
+2000,New Year Weekend,183301778.0,62.0,Cast Away,40038715.0
+2001,New Year's Eve,31175667.0,20.0,The Lord of the Rings: The Fellowship of the Ring,8008803.0
+2001,Christmas Day,45439261.0,21.0,The Lord of the Rings: The Fellowship of the Ring,11570303.0
+2001,Christmas Weekend,196469348.0,33.0,The Lord of the Rings: The Fellowship of the Ring,66114741.0
+2001,Post-Thanksgiving Weekend,89743437.0,63.0,Harry Potter and the Sorcerer's Stone,23642327.0
+2001,Thanksgiving Weekend,152037811.0,61.0,Harry Potter and the Sorcerer's Stone,57487755.0
+2001,Thanksgiving 4-Day Weekend,159882810.0,14.0,Harry Potter and the Sorcerer's Stone,69745755.0
+2001,Thanksgiving,28090262.0,14.0,Harry Potter and the Sorcerer's Stone,12258000.0
+2001,Thanksgiving 5-Day Weekend,185791130.0,14.0,Harry Potter and the Sorcerer's Stone,82387621.0
+2001,Halloween,1399716.0,8.0,K-PAX,978285.0
+2001,Indigenous People's Day,322269.0,10.0,American Pie 2,72590.0
+2001,Indigenous People's Day Weekend,2646893.0,10.0,American Pie 2,776875.0
+2001,Labor Day,4408526.0,8.0,American Pie 2,2024100.0
+2001,Labor Day Weekend,118505659.0,64.0,Jeepers Creepers,15831700.0
+2001,Independence Day,39519080.0,18.0,Cats & Dogs,9023454.0
+2001,Memorial Day,38261951.0,14.0,Pearl Harbor,16098742.0
+2001,Memorial Day Weekend,181706465.0,23.0,Pearl Harbor,75177654.0
+2001,Easter,3672205.0,7.0,Kingdom Come,2210796.0
+2001,Easter Weekend,25818537.0,20.0,Kingdom Come,8337378.0
+2001,President's Day,10233740.0,9.0,Hannibal,3793558.0
+2001,President's Day Weekend,146701962.0,60.0,Hannibal,33501505.0
+2001,MLK Day,13384039.0,13.0,Save the Last Dance,4081513.0
+2001,MLK Day Weekend,169963707.0,64.0,Save the Last Dance,27526443.0
+2001,New Year's Day,34744876.0,20.0,Cast Away,9060846.0
+2001,New Year Weekend,246947864.0,38.0,The Lord of the Rings: The Fellowship of the Ring,56952669.0
+2002,New Year's Eve,35476119.0,43.0,The Lord of the Rings: The Two Towers,8442823.0
+2002,Christmas Day,40796393.0,36.0,The Lord of the Rings: The Two Towers,12381307.0
+2002,Post-Thanksgiving Weekend,81830292.0,126.0,Die Another Day,12843007.0
+2002,Thanksgiving Weekend,150780433.0,132.0,Harry Potter and the Chamber of Secrets,32117496.0
+2002,Thanksgiving 4-Day Weekend,173741378.0,39.0,Die Another Day,39417993.0
+2002,Thanksgiving,32313126.0,38.0,Die Another Day,8407810.0
+2002,Thanksgiving 5-Day Weekend,200863359.0,39.0,Die Another Day,46068011.0
+2002,Halloween,7897068.0,35.0,The Ring,2777426.0
+2002,Indigenous People's Day,12336229.0,40.0,Red Dragon,2017795.0
+2002,Indigenous People's Day Weekend,99562823.0,45.0,Red Dragon,19673545.0
+2002,Labor Day,25536309.0,36.0,My Big Fat Greek Wedding,3708782.0
+2002,Labor Day Weekend,115948185.0,138.0,Signs,17043114.0
+2002,Independence Day,37271812.0,23.0,Men in Black II,16493214.0
+2002,Memorial Day,39338766.0,22.0,Star Wars: Episode II - Attack of the Clones,12123417.0
+2002,Memorial Day Weekend,200387030.0,81.0,Star Wars: Episode II - Attack of the Clones,60003949.0
+2002,Easter,29607003.0,30.0,Panic Room,7165000.0
+2002,Easter Weekend,136487515.0,30.0,Panic Room,33008751.0
+2002,President's Day,26323619.0,35.0,Return to Never Land,3733833.0
+2002,President's Day Weekend,163437150.0,61.0,John Q,23612171.0
+2002,MLK Day,28074567.0,29.0,Snow Dogs,5893915.0
+2002,MLK Day Weekend,151166550.0,60.0,Black Hawk Down,33628211.0
+2002,New Year's Day,39236929.0,20.0,The Lord of the Rings: The Fellowship of the Ring,10248284.0
+2003,New Year's Eve,35588642.0,33.0,The Lord of the Rings: The Return of the King,7509391.0
+2003,Christmas Day,51710746.0,41.0,The Lord of the Rings: The Return of the King,13986220.0
+2003,Post-Thanksgiving Weekend,97965555.0,127.0,The Last Samurai,24271354.0
+2003,Thanksgiving Weekend,162391549.0,134.0,The Cat in the Hat,24459685.0
+2003,Thanksgiving 4-Day Weekend,190100407.0,39.0,The Haunted Mansion,29497463.0
+2003,Thanksgiving,33766010.0,39.0,Elf,5497000.0
+2003,Thanksgiving 5-Day Weekend,217284109.0,39.0,The Haunted Mansion,34046111.0
+2003,Halloween,18853253.0,38.0,Scary Movie 3,4416000.0
+2003,Indigenous People's Day,14037600.0,72.0,Kill Bill: Vol. 1,3196215.0
+2003,Indigenous People's Day Weekend,93306494.0,76.0,School of Rock,17576596.0
+2003,Labor Day,31073967.0,50.0,Freaky Friday,3381996.0
+2003,Labor Day Weekend,133861747.0,140.0,Jeepers Creepers 2,18365222.0
+2003,Independence Day,35761693.0,35.0,Terminator 3: Rise of the Machines,13036305.0
+2003,Memorial Day,40558375.0,35.0,Bruce Almighty,17780715.0
+2003,Memorial Day Weekend,203036816.0,130.0,Bruce Almighty,85734045.0
+2003,Easter,23796921.0,73.0,Anger Management,5361584.0
+2003,Easter Weekend,117399887.0,73.0,Anger Management,27646189.0
+2003,President's Day,19696857.0,42.0,Daredevil,4723035.0
+2003,President's Day Weekend,164865201.0,120.0,Daredevil,45033454.0
+2003,MLK Day,26268710.0,39.0,Kangaroo Jack,5315274.0
+2003,MLK Day Weekend,151271592.0,129.0,Kangaroo Jack,21895483.0
+2003,New Year's Day,47830339.0,47.0,The Lord of the Rings: The Two Towers,11040273.0
+2004,New Year's Eve,43379159.0,40.0,Meet the Fockers,12140180.0
+2004,Christmas Day,55566160.0,40.0,Meet the Fockers,19542490.0
+2004,Post-Thanksgiving Weekend,87168985.0,112.0,National Treasure,17004967.0
+2004,Thanksgiving Weekend,162308348.0,117.0,National Treasure,32156917.0
+2004,Thanksgiving 4-Day Weekend,192774124.0,35.0,National Treasure,39967033.0
+2004,Thanksgiving,34537882.0,34.0,National Treasure,7810116.0
+2004,Thanksgiving 5-Day Weekend,221908279.0,35.0,National Treasure,45614808.0
+2004,Halloween,24511773.0,45.0,Saw,5392153.0
+2004,Indigenous People's Day,13891045.0,43.0,Shark Tale,5273734.0
+2004,Indigenous People's Day Weekend,116070023.0,48.0,Shark Tale,36604033.0
+2004,Labor Day,24603265.0,42.0,Hero,2707022.0
+2004,Labor Day Weekend,116573642.0,136.0,Hero,11514779.0
+2004,Independence Day,42357385.0,32.0,Spider-Man 2,21955628.0
+2004,Independence Day Weekend,223275545.0,113.0,Spider-Man 2,115817364.0
+2004,Memorial Day,54117628.0,34.0,Shrek 2,23408002.0
+2004,Memorial Day Weekend,248330709.0,148.0,Shrek 2,95578365.0
+2004,Easter,27703581.0,41.0,The Passion of the Christ,3666346.0
+2004,Easter Weekend,128372978.0,41.0,The Passion of the Christ,16514653.0
+2004,President's Day,19914475.0,43.0,50 First Dates,5255634.0
+2004,President's Day Weekend,145599508.0,132.0,50 First Dates,45107871.0
+2004,MLK Day,23466527.0,42.0,Along Came Polly,4729640.0
+2004,MLK Day Weekend,138629157.0,117.0,Along Came Polly,32450825.0
+2004,New Year's Day,53783135.0,36.0,The Lord of the Rings: The Return of the King,12784656.0
+2005,New Year's Eve,42301440.0,37.0,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",7745203.0
+2005,Christmas Day,48109558.0,39.0,King Kong,8850600.0
+2005,Christmas Weekend,176460617.0,89.0,King Kong,33274680.0
+2005,Post-Thanksgiving Weekend,86968500.0,135.0,Harry Potter and the Goblet of Fire,19878136.0
+2005,Thanksgiving Weekend,165601846.0,130.0,Harry Potter and the Goblet of Fire,54727138.0
+2005,Thanksgiving 4-Day Weekend,186993488.0,43.0,Harry Potter and the Goblet of Fire,67136300.0
+2005,Thanksgiving,34565471.0,40.0,Harry Potter and the Goblet of Fire,12409162.0
+2005,Thanksgiving 5-Day Weekend,222928360.0,43.0,Harry Potter and the Goblet of Fire,81266683.0
+2005,Halloween,9739528.0,45.0,Saw II,4526635.0
+2005,Indigenous People's Day,13532979.0,45.0,Wallace & Gromit: The Curse of the Were-Rabbit,2715854.0
+2005,Indigenous People's Day Weekend,113778846.0,47.0,Wallace & Gromit: The Curse of the Were-Rabbit,18741841.0
+2005,Labor Day,23614002.0,44.0,Transporter 2,3563888.0
+2005,Labor Day Weekend,117734958.0,131.0,Transporter 2,20104608.0
+2005,Independence Day,28509791.0,33.0,War of the Worlds,12183228.0
+2005,Independence Day Weekend,171680305.0,132.0,War of the Worlds,77061953.0
+2005,Memorial Day,47976622.0,28.0,Star Wars: Episode III - Revenge of the Sith,14841083.0
+2005,Memorial Day Weekend,232101105.0,127.0,Star Wars: Episode III - Revenge of the Sith,70047055.0
+2005,Easter,22950993.0,37.0,Guess Who,5078857.0
+2005,Easter Weekend,110230023.0,37.0,Guess Who,23317835.0
+2005,President's Day,24307110.0,38.0,Hitch,5375316.0
+2005,President's Day Weekend,157855767.0,122.0,Hitch,36731246.0
+2005,MLK Day,29691527.0,38.0,Coach Carter,4985220.0
+2005,MLK Day Weekend,168489287.0,92.0,Coach Carter,29168181.0
+2005,New Year's Day,60605096.0,40.0,Meet the Fockers,18271940.0
+2005,New Year Weekend,193881677.0,95.0,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",33712024.0
+2006,New Year's Eve,40364350.0,48.0,Night at the Museum,9484970.0
+2006,Christmas Day,58661579.0,47.0,Night at the Museum,11778870.0
+2006,Christmas Weekend,179396906.0,92.0,Night at the Museum,42212651.0
+2006,Post-Thanksgiving Weekend,93451551.0,124.0,Happy Feet,17545418.0
+2006,Thanksgiving Weekend,161954607.0,118.0,Happy Feet,37038046.0
+2006,Thanksgiving 4-Day Weekend,193007195.0,50.0,Happy Feet,43183255.0
+2006,Thanksgiving,33680039.0,49.0,Casino Royale,7538925.0
+2006,Thanksgiving 5-Day Weekend,223388878.0,50.0,Happy Feet,50645518.0
+2006,Halloween,10084566.0,42.0,Saw III,4505675.0
+2006,Indigenous People's Day,13498004.0,42.0,The Departed,3870323.0
+2006,Indigenous People's Day Weekend,120273065.0,45.0,The Departed,30757790.0
+2006,Labor Day,26082752.0,48.0,Invincible,3275944.0
+2006,Labor Day Weekend,129258128.0,124.0,Invincible,15427370.0
+2006,Independence Day,31559760.0,35.0,Superman Returns,10510117.0
+2006,Independence Day Weekend,225886164.0,98.0,Superman Returns,76033267.0
+2006,Memorial Day,44948671.0,36.0,X-Men: The Last Stand,20110492.0
+2006,Memorial Day Weekend,241939829.0,125.0,X-Men: The Last Stand,122861157.0
+2006,Easter,26443773.0,45.0,Scary Movie 4,7762176.0
+2006,Easter Weekend,132023054.0,45.0,Scary Movie 4,44196859.0
+2006,President's Day,26566446.0,45.0,Eight Below,4780425.0
+2006,President's Day Weekend,156942068.0,122.0,Eight Below,24968601.0
+2006,MLK Day,27435451.0,34.0,Hoodwinked,4477502.0
+2006,MLK Day Weekend,154432915.0,102.0,Glory Road,16927589.0
+2006,New Year's Day,51061651.0,37.0,King Kong,8795475.0
+2006,New Year Weekend,213090855.0,102.0,Night at the Museum,48231531.0
+2007,New Year's Eve,39805298.0,48.0,National Treasure: Book of Secrets,9188271.0
+2007,Christmas Day,64381332.0,45.0,National Treasure: Book of Secrets,13656128.0
+2007,Christmas Weekend,249297664.0,67.0,National Treasure: Book of Secrets,65444195.0
+2007,Post-Thanksgiving Weekend,84456667.0,121.0,Enchanted,16403316.0
+2007,Thanksgiving Weekend,162176916.0,120.0,Enchanted,34440317.0
+2007,Thanksgiving 4-Day Weekend,193662361.0,55.0,Enchanted,41092515.0
+2007,Thanksgiving,33195512.0,55.0,Enchanted,6652198.0
+2007,Thanksgiving 5-Day Weekend,228209311.0,56.0,Enchanted,49060281.0
+2007,Halloween,8535880.0,55.0,Saw IV,2808522.0
+2007,Indigenous People's Day,11449800.0,55.0,The Game Plan,2733318.0
+2007,Indigenous People's Day Weekend,92216061.0,57.0,The Game Plan,19342695.0
+2007,Labor Day,29703234.0,49.0,Halloween,4229392.0
+2007,Labor Day Weekend,148188768.0,118.0,Halloween,30591759.0
+2007,Independence Day,61561607.0,39.0,Transformers,29073898.0
+2007,Memorial Day,48384755.0,40.0,Pirates of the Caribbean: At World's End,25069370.0
+2007,Memorial Day Weekend,255591705.0,117.0,Pirates of the Caribbean: At World's End,139802190.0
+2007,Easter,28370777.0,52.0,Blades of Glory,4889495.0
+2007,Easter Weekend,138523536.0,52.0,Blades of Glory,25327019.0
+2007,President's Day,28968449.0,49.0,Ghost Rider,6634072.0
+2007,President's Day Weekend,188624817.0,102.0,Ghost Rider,52022908.0
+2007,MLK Day,27599973.0,48.0,Night at the Museum,4685510.0
+2007,MLK Day Weekend,156137695.0,102.0,Stomp the Yard,25876318.0
+2007,New Year's Day,50295743.0,50.0,Night at the Museum,11464626.0
+2007,New Year Weekend,275032134.0,74.0,National Treasure: Book of Secrets,54540535.0
+2008,New Year's Eve,36321605.0,48.0,Marley & Me,6883821.0
+2008,Christmas Day,75127017.0,52.0,Marley & Me,14380980.0
+2008,Post-Thanksgiving Weekend,82434771.0,115.0,Four Christmases,16755478.0
+2008,Thanksgiving Weekend,162603106.0,105.0,Four Christmases,31069826.0
+2008,Thanksgiving 4-Day Weekend,194205391.0,53.0,Four Christmases,39972704.0
+2008,Thanksgiving,34123032.0,51.0,Four Christmases,8902878.0
+2008,Thanksgiving 5-Day Weekend,228766509.0,53.0,Four Christmases,46054468.0
+2008,Halloween,18458452.0,59.0,Saw V,3172214.0
+2008,Indigenous People's Day,13319060.0,58.0,Beverly Hills Chihuahua,2823779.0
+2008,Indigenous People's Day Weekend,113091916.0,60.0,Beverly Hills Chihuahua,20325856.0
+2008,Labor Day,25262728.0,53.0,Tropic Thunder,3083510.0
+2008,Labor Day Weekend,123794714.0,120.0,Tropic Thunder,14602121.0
+2008,Independence Day,44275897.0,38.0,Hancock,18527967.0
+2008,Memorial Day,46822160.0,46.0,Indiana Jones and the Kingdom of the Crystal Skull,26779538.0
+2008,Memorial Day Weekend,219455440.0,118.0,Indiana Jones and the Kingdom of the Crystal Skull,126917373.0
+2008,Easter,26439155.0,59.0,Horton Hears a Who!,5207854.0
+2008,Easter Weekend,125354528.0,59.0,Horton Hears a Who!,29192130.0
+2008,President's Day,27666484.0,57.0,The Spiderwick Chronicles,5736479.0
+2008,President's Day Weekend,167469892.0,100.0,Jumper,32092991.0
+2008,MLK Day,32445825.0,55.0,Cloverfield,6088317.0
+2008,MLK Day Weekend,187094009.0,95.0,Cloverfield,46146546.0
+2008,New Year's Day,49155192.0,48.0,National Treasure: Book of Secrets,9679556.0
+2009,New Year's Eve,52013607.0,43.0,Avatar,14738136.0
+2009,Christmas Day,86561762.0,46.0,Sherlock Holmes,24608941.0
+2009,Post-Thanksgiving Weekend,99663975.0,113.0,The Blind Side,20043181.0
+2009,Thanksgiving Weekend,186348522.0,109.0,The Twilight Saga: New Moon,42870031.0
+2009,Thanksgiving 4-Day Weekend,225057670.0,55.0,The Twilight Saga: New Moon,52074575.0
+2009,Thanksgiving,41690820.0,53.0,The Blind Side,9489335.0
+2009,Thanksgiving 5-Day Weekend,266644110.0,55.0,The Twilight Saga: New Moon,66273378.0
+2009,Halloween,30783692.0,61.0,This Is It,7075741.0
+2009,Indigenous People's Day,15479175.0,53.0,Couples Retreat,4006225.0
+2009,Indigenous People's Day Weekend,123465598.0,57.0,Couples Retreat,38292965.0
+2009,Labor Day,26434093.0,55.0,Inglourious Basterds,3321096.0
+2009,Labor Day Weekend,124476257.0,108.0,The Final Destination,15295069.0
+2009,Independence Day,42255518.0,38.0,Ice Age: Dawn of the Dinosaurs,11322506.0
+2009,Memorial Day,45167308.0,43.0,Night at the Museum: Battle of the Smithsonian,15878718.0
+2009,Memorial Day Weekend,221901103.0,112.0,Night at the Museum: Battle of the Smithsonian,70052004.0
+2009,Easter,26568437.0,49.0,Fast & Furious,6110785.0
+2009,Easter Weekend,148228465.0,49.0,Hannah Montana: The Movie,36949154.0
+2009,President's Day,31440380.0,51.0,Coraline,4068478.0
+2009,President's Day Weekend,220039425.0,91.0,Friday the 13th,43585449.0
+2009,MLK Day,38287812.0,54.0,Paul Blart: Mall Cop,7401602.0
+2009,MLK Day Weekend,231208273.0,85.0,Paul Blart: Mall Cop,39234238.0
+2009,New Year's Day,60629724.0,51.0,Marley & Me,9956212.0
+2010,New Year's Eve,47711003.0,48.0,True Grit,8166256.0
+2010,Christmas Day,58720816.0,46.0,Little Fockers,14568320.0
+2010,Post-Thanksgiving Weekend,86325286.0,119.0,Tangled,21608891.0
+2010,Thanksgiving Weekend,181242458.0,103.0,Harry Potter and the Deathly Hallows: Part 1,49087101.0
+2010,Thanksgiving 4-Day Weekend,215713375.0,49.0,Harry Potter and the Deathly Hallows: Part 1,60563081.0
+2010,Thanksgiving,36077320.0,47.0,Harry Potter and the Deathly Hallows: Part 1,11475980.0
+2010,Thanksgiving 5-Day Weekend,257951386.0,48.0,Harry Potter and the Deathly Hallows: Part 1,74988944.0
+2010,Halloween,22196761.0,47.0,Saw 3D,5681091.0
+2010,Indigenous People's Day,12678807.0,48.0,The Social Network,2188088.0
+2010,Indigenous People's Day Weekend,103670689.0,52.0,The Social Network,17640079.0
+2010,Labor Day,26638148.0,49.0,The American,3484543.0
+2010,Labor Day Weekend,132758175.0,111.0,The American,16662333.0
+2010,Independence Day,44903106.0,45.0,The Twilight Saga: Eclipse,13258246.0
+2010,Independence Day Weekend,250408407.0,96.0,The Twilight Saga: Eclipse,83637242.0
+2010,Memorial Day,39999612.0,42.0,Shrek Forever After,13749371.0
+2010,Memorial Day Weekend,192706796.0,103.0,Shrek Forever After,57060434.0
+2010,Easter,39983685.0,44.0,Clash of the Titans,13812670.0
+2010,Easter Weekend,198446177.0,44.0,Clash of the Titans,67628501.0
+2010,President's Day,34151169.0,43.0,Percy Jackson & the Olympians: The Lightning Thief,7425567.0
+2010,President's Day Weekend,239380299.0,87.0,Valentine's Day,63135312.0
+2010,MLK Day,38945191.0,46.0,Avatar,11615834.0
+2010,MLK Day Weekend,209509035.0,83.0,Avatar,54401446.0
+2010,New Year's Day,83007946.0,46.0,Avatar,25274008.0
+2011,New Year's Eve,47712605.0,46.0,Mission: Impossible - Ghost Protocol,8731970.0
+2011,Christmas Day,60977960.0,45.0,Mission: Impossible - Ghost Protocol,13653650.0
+2011,Christmas Weekend,198065301.0,75.0,Mission: Impossible - Ghost Protocol,44118783.0
+2011,Post-Thanksgiving Weekend,81502185.0,101.0,The Twilight Saga: Breaking Dawn - Part 1,16535465.0
+2011,Thanksgiving Weekend,165042631.0,107.0,The Twilight Saga: Breaking Dawn - Part 1,41683574.0
+2011,Thanksgiving 4-Day Weekend,190495014.0,50.0,The Twilight Saga: Breaking Dawn - Part 1,49416283.0
+2011,Thanksgiving,28485133.0,43.0,The Twilight Saga: Breaking Dawn - Part 1,7732709.0
+2011,Thanksgiving 5-Day Weekend,225149356.0,50.0,The Twilight Saga: Breaking Dawn - Part 1,61853847.0
+2011,Halloween,9530458.0,57.0,Paranormal Activity 3,2531585.0
+2011,Indigenous People's Day,12810932.0,48.0,Real Steel,3408428.0
+2011,Indigenous People's Day Weekend,106161269.0,53.0,Real Steel,30728105.0
+2011,Labor Day,31115174.0,62.0,The Help,5286948.0
+2011,Labor Day Weekend,138952409.0,122.0,The Help,19881571.0
+2011,Independence Day,38960694.0,49.0,Transformers: Dark of the Moon,18033185.0
+2011,Independence Day Weekend,241553443.0,102.0,Transformers: Dark of the Moon,115886050.0
+2011,Memorial Day,53546112.0,52.0,The Hangover Part II,17480581.0
+2011,Memorial Day Weekend,276889541.0,106.0,The Hangover Part II,103426875.0
+2011,Easter,29217716.0,51.0,Rio,5756975.0
+2011,Easter Weekend,149092004.0,51.0,Rio,29667134.0
+2011,President's Day,28510914.0,44.0,Gnomeo & Juliet,6261707.0
+2011,President's Day Weekend,173631940.0,100.0,Unknown,25453015.0
+2011,MLK Day,28478768.0,48.0,The Green Hornet,6485667.0
+2011,MLK Day Weekend,158959357.0,86.0,The Green Hornet,40012543.0
+2011,New Year's Day,66029226.0,48.0,Little Fockers,11443880.0
+2011,New Year Weekend,200114665.0,76.0,Mission: Impossible - Ghost Protocol,38202439.0
+2012,New Year's Eve,42120785.0,53.0,The Hobbit: An Unexpected Journey,6919722.0
+2012,Christmas Day,74948748.0,49.0,Les Misérables,18111665.0
+2012,Christmas Weekend,204882187.0,53.0,The Hobbit: An Unexpected Journey,55024161.0
+2012,Post-Thanksgiving Weekend,114496488.0,108.0,The Twilight Saga: Breaking Dawn - Part 2,17416362.0
+2012,Thanksgiving Weekend,207815979.0,107.0,The Twilight Saga: Breaking Dawn - Part 2,43641448.0
+2012,Thanksgiving 4-Day Weekend,244861842.0,49.0,The Twilight Saga: Breaking Dawn - Part 2,51656149.0
+2012,Thanksgiving,38446378.0,46.0,The Twilight Saga: Breaking Dawn - Part 2,8014701.0
+2012,Thanksgiving 5-Day Weekend,289573641.0,50.0,The Twilight Saga: Breaking Dawn - Part 2,64435436.0
+2012,Halloween,9233298.0,41.0,Argo,1445137.0
+2012,Indigenous People's Day,18923094.0,46.0,Taken 2,5501950.0
+2012,Indigenous People's Day Weekend,158700116.0,54.0,Taken 2,55016719.0
+2012,Labor Day,28960530.0,53.0,The Possession,3346360.0
+2012,Labor Day Weekend,133965411.0,100.0,The Possession,21078840.0
+2012,Independence Day,53720299.0,42.0,The Amazing Spider-Man,23335925.0
+2012,Memorial Day,40306554.0,52.0,Men in Black³,14661938.0
+2012,Memorial Day Weekend,194092495.0,111.0,Men in Black³,69254717.0
+2012,Easter,27251440.0,45.0,The Hunger Games,7294332.0
+2012,Easter Weekend,136124614.0,45.0,The Hunger Games,37254774.0
+2012,President's Day,32189207.0,54.0,Journey 2: The Mysterious Island,6088827.0
+2012,President's Day Weekend,193509301.0,102.0,Safe House,27542825.0
+2012,MLK Day,30458227.0,44.0,Beauty and the Beast2012 3D Release,4462017.0
+2012,MLK Day Weekend,162923701.0,74.0,Contraband,28515480.0
+2012,New Year's Day,49154018.0,46.0,Mission: Impossible - Ghost Protocol,10058761.0
+2012,New Year Weekend,277443906.0,54.0,The Hobbit: An Unexpected Journey,48300511.0
+2013,New Year's Eve,41248466.0,47.0,Frozen,7076451.0
+2013,Christmas Day,77183038.0,45.0,The Hobbit: The Desolation of Smaug,9306295.0
+2013,Post-Thanksgiving Weekend,94535353.0,96.0,Frozen,31616230.0
+2013,Thanksgiving Weekend,208125032.0,104.0,The Hunger Games: Catching Fire,74179601.0
+2013,Thanksgiving 4-Day Weekend,244535600.0,50.0,The Hunger Games: Catching Fire,89131230.0
+2013,Thanksgiving,37805162.0,46.0,The Hunger Games: Catching Fire,14951629.0
+2013,Thanksgiving 5-Day Weekend,292303215.0,50.0,The Hunger Games: Catching Fire,109939340.0
+2013,Halloween,8055871.0,45.0,Jackass Presents: Bad Grandpa,1776627.0
+2013,Indigenous People's Day,17147455.0,47.0,Gravity,6201076.0
+2013,Indigenous People's Day Weekend,131493515.0,54.0,Gravity,49389332.0
+2013,Labor Day,36678895.0,56.0,The Butler,5322986.0
+2013,Labor Day Weekend,162136448.0,112.0,The Butler,20201272.0
+2013,Independence Day,63079682.0,49.0,Despicable Me 2,24546980.0
+2013,Memorial Day,59036225.0,46.0,Fast & Furious 6,19661750.0
+2013,Memorial Day Weekend,314240146.0,97.0,Fast & Furious 6,117036995.0
+2013,Easter,33735037.0,53.0,G.I. Joe: Retaliation,9682790.0
+2013,Easter Weekend,164811685.0,53.0,G.I. Joe: Retaliation,45048833.0
+2013,President's Day,26737619.0,55.0,Escape from Planet Earth,5210921.0
+2013,President's Day Weekend,168341536.0,86.0,A Good Day to Die Hard,28640657.0
+2013,MLK Day,25550028.0,51.0,Mama,3745505.0
+2013,MLK Day Weekend,165335690.0,68.0,Mama,32147815.0
+2013,New Year's Day,54935225.0,53.0,The Hobbit: An Unexpected Journey,9454721.0
+2014,New Year's Eve,39012775.0,49.0,The Hobbit: The Battle of the Five Armies,6001672.0
+2014,Christmas Day,81254644.0,49.0,Unbroken,15434400.0
+2014,Post-Thanksgiving Weekend,78180686.0,96.0,The Hunger Games: Mockingjay - Part 1,22026762.0
+2014,Thanksgiving Weekend,163791775.0,97.0,The Hunger Games: Mockingjay - Part 1,56972599.0
+2014,Thanksgiving 4-Day Weekend,189771521.0,52.0,The Hunger Games: Mockingjay - Part 1,68052582.0
+2014,Thanksgiving,28724752.0,49.0,The Hunger Games: Mockingjay - Part 1,11079983.0
+2014,Thanksgiving 5-Day Weekend,226978340.0,52.0,The Hunger Games: Mockingjay - Part 1,82673099.0
+2014,Halloween,21827830.0,54.0,Ouija,3436620.0
+2014,Indigenous People's Day,21187833.0,60.0,Gone Girl,3953213.0
+2014,Indigenous People's Day Weekend,166940703.0,63.0,Gone Girl,30359347.0
+2014,Labor Day,31279436.0,51.0,Guardians of the Galaxy,5824589.0
+2014,Labor Day Weekend,141284370.0,94.0,Guardians of the Galaxy,22906851.0
+2014,Independence Day,37917579.0,44.0,Transformers: Age of Extinction,10619669.0
+2014,Memorial Day,44340637.0,46.0,X-Men: Days of Future Past,19752944.0
+2014,Memorial Day Weekend,232102154.0,103.0,X-Men: Days of Future Past,110576604.0
+2014,Easter,30060800.0,52.0,Heaven Is for Real,6397295.0
+2014,Easter Weekend,144538498.0,52.0,Captain America: The Winter Soldier,28182183.0
+2014,President's Day,30388127.0,49.0,The Lego Movie,12632036.0
+2014,President's Day Weekend,208762307.0,84.0,The Lego Movie,62478466.0
+2014,MLK Day,36975900.0,41.0,Ride Along,7110210.0
+2014,MLK Day Weekend,213241808.0,68.0,Ride Along,48626380.0
+2014,New Year's Day,56129948.0,49.0,Frozen,8718939.0
+2015,New Year's Eve,51078620.0,47.0,Star Wars: Episode VII - The Force Awakens,22932686.0
+2015,Christmas Day,103117445.0,46.0,Star Wars: Episode VII - The Force Awakens,49325663.0
+2015,Post-Thanksgiving Weekend,97833704.0,95.0,The Hunger Games: Mockingjay - Part 2,18857547.0
+2015,Thanksgiving Weekend,182526007.0,86.0,The Hunger Games: Mockingjay - Part 2,52004595.0
+2015,Thanksgiving 4-Day Weekend,215717632.0,48.0,The Hunger Games: Mockingjay - Part 2,62319337.0
+2015,Thanksgiving,34050592.0,45.0,The Hunger Games: Mockingjay - Part 2,10314742.0
+2015,Thanksgiving 5-Day Weekend,256957261.0,48.0,The Hunger Games: Mockingjay - Part 2,75982788.0
+2015,Halloween,26946602.0,40.0,The Martian,4564809.0
+2015,Indigenous People's Day,16569889.0,43.0,The Martian,4900783.0
+2015,Indigenous People's Day Weekend,133112208.0,51.0,The Martian,41906049.0
+2015,Labor Day,25764990.0,47.0,War Room,3908023.0
+2015,Labor Day Weekend,116912740.0,85.0,War Room,13388558.0
+2015,Independence Day,37199059.0,39.0,Jurassic World,8539045.0
+2015,Memorial Day,40358610.0,72.0,Tomorrowland,9651035.0
+2015,Memorial Day Weekend,194717763.0,81.0,Tomorrowland,42679200.0
+2015,Easter,51042156.0,41.0,Furious 7,33153120.0
+2015,Easter Weekend,247143426.0,45.0,Furious 7,161202390.0
+2015,President's Day,32358849.0,51.0,The SpongeBob Movie: Sponge Out of Water,8550121.0
+2015,President's Day Weekend,247208470.0,75.0,Fifty Shades of Grey,93010350.0
+2015,MLK Day,47508869.0,52.0,American Sniper,17942391.0
+2015,MLK Day Weekend,250809036.0,71.0,American Sniper,107211457.0
+2015,New Year's Day,55101053.0,48.0,The Hobbit: The Battle of the Five Armies,9320601.0
+2016,New Year's Eve,54456546.0,50.0,Rogue One: A Star Wars Story,14632828.0
+2016,Christmas Day,83122128.0,49.0,Rogue One: A Star Wars Story,25865004.0
+2016,Christmas Weekend,274763402.0,67.0,Rogue One: A Star Wars Story,96119405.0
+2016,Post-Thanksgiving Weekend,95805897.0,131.0,Moana,28270989.0
+2016,Thanksgiving Weekend,184385596.0,116.0,Moana,56631401.0
+2016,Thanksgiving 4-Day Weekend,217250328.0,55.0,Moana,66561040.0
+2016,Thanksgiving,33883754.0,51.0,Moana,9929639.0
+2016,Thanksgiving 5-Day Weekend,260702622.0,56.0,Moana,82080274.0
+2016,Halloween,9588659.0,63.0,Boo! A Madea Halloween,1941626.0
+2016,Indigenous People's Day,15058457.0,64.0,The Girl on the Train,3096055.0
+2016,Indigenous People's Day Weekend,117973713.0,68.0,The Girl on the Train,27632320.0
+2016,Labor Day,28531017.0,58.0,Don't Breathe,3874704.0
+2016,Labor Day Weekend,128361944.0,98.0,Don't Breathe,19707927.0
+2016,Independence Day,40631571.0,61.0,Finding Dory,9619207.0
+2016,Independence Day Weekend,230971432.0,85.0,Finding Dory,51436383.0
+2016,Memorial Day,40992695.0,47.0,X-Men: Apocalypse,14040571.0
+2016,Memorial Day Weekend,205474478.0,88.0,X-Men: Apocalypse,79810133.0
+2016,Easter,55104262.0,50.0,Batman v Superman: Dawn of Justice,33791754.0
+2016,Easter Weekend,278486400.0,54.0,Batman v Superman: Dawn of Justice,181047843.0
+2016,President's Day,38672548.0,53.0,Deadpool,19759214.0
+2016,President's Day Weekend,278484327.0,87.0,Deadpool,152193853.0
+2016,MLK Day,35187283.0,46.0,Star Wars: Episode VII - The Force Awakens,6678148.0
+2016,MLK Day Weekend,200759295.0,57.0,Ride Along 2,41006705.0
+2016,New Year's Day,83473757.0,48.0,Star Wars: Episode VII - The Force Awakens,34394152.0
+2016,New Year Weekend,246770071.0,68.0,Rogue One: A Star Wars Story,65522676.0
+2017,New Year's Eve,50239892.0,44.0,Star Wars: Episode VIII - The Last Jedi,13566649.0
+2017,Christmas Day,81472493.0,59.0,Star Wars: Episode VIII - The Last Jedi,27459557.0
+2017,Christmas Weekend,259567981.0,62.0,Star Wars: Episode VIII - The Last Jedi,99025055.0
+2017,Post-Thanksgiving Weekend,105270560.0,111.0,Coco,27533304.0
+2017,Thanksgiving Weekend,188835224.0,99.0,Coco,50802605.0
+2017,Thanksgiving 4-Day Weekend,222844449.0,60.0,Coco,59721354.0
+2017,Thanksgiving,35364858.0,60.0,Coco,8918749.0
+2017,Thanksgiving 5-Day Weekend,267474764.0,61.0,Coco,72908930.0
+2017,Halloween,9835475.0,59.0,Jigsaw,2223252.0
+2017,Indigenous People's Day,16511402.0,66.0,Blade Runner 2049,4471019.0
+2017,Indigenous People's Day Weekend,121081241.0,67.0,Blade Runner 2049,37224141.0
+2017,Labor Day,20244515.0,101.0,The Hitman's Bodyguard,2736702.0
+2017,Labor Day Weekend,97866622.0,121.0,The Hitman's Bodyguard,13272712.0
+2017,Independence Day,33819463.0,51.0,Despicable Me 3,12728355.0
+2017,Independence Day Weekend,239317563.0,77.0,Despicable Me 3,99020280.0
+2017,Memorial Day,38302331.0,62.0,Pirates of the Caribbean: Dead Men Tell No Tales,15493514.0
+2017,Memorial Day Weekend,180517134.0,88.0,Pirates of the Caribbean: Dead Men Tell No Tales,78476767.0
+2017,Easter,38835554.0,50.0,The Fate of the Furious,21548065.0
+2017,Easter Weekend,186508700.0,50.0,The Fate of the Furious,107310965.0
+2017,President's Day,30833612.0,60.0,The Lego Batman Movie,10089017.0
+2017,President's Day Weekend,181707401.0,68.0,The Lego Batman Movie,42744131.0
+2017,MLK Day,35936134.0,60.0,Hidden Figures,6652892.0
+2017,MLK Day Weekend,185210740.0,66.0,Hidden Figures,27506839.0
+2017,New Year's Day,63986439.0,52.0,Rogue One: A Star Wars Story,16751857.0
+2017,New Year Weekend,253441683.0,67.0,Star Wars: Episode VIII - The Last Jedi,66813601.0
+2018,New Year's Eve,41631235.0,53.0,Aquaman,10011638.0
+2018,Christmas Day,78463841.0,53.0,Aquaman,21982419.0
+2018,Christmas Weekend,291020519.0,60.0,Aquaman,100707869.0
+2018,Post-Thanksgiving Weekend,119701329.0,104.0,Ralph Breaks the Internet,25566945.0
+2018,Thanksgiving Weekend,216475781.0,99.0,Ralph Breaks the Internet,56237634.0
+2018,Thanksgiving 4-Day Weekend,257931535.0,64.0,Ralph Breaks the Internet,66409965.0
+2018,Thanksgiving,41867257.0,58.0,Ralph Breaks the Internet,10172331.0
+2018,Thanksgiving 5-Day Weekend,314861631.0,64.0,Ralph Breaks the Internet,84750405.0
+2018,Halloween,12773436.0,66.0,Halloween,5547305.0
+2018,Indigenous People's Day,25849069.0,69.0,Venom,9631343.0
+2018,Indigenous People's Day Weekend,203404722.0,73.0,Venom,89887099.0
+2018,Labor Day,30009538.0,64.0,Crazy Rich Asians,6611877.0
+2018,Labor Day Weekend,129333336.0,95.0,Crazy Rich Asians,28576222.0
+2018,Independence Day,43251048.0,56.0,Jurassic World: Fallen Kingdom,11501395.0
+2018,Memorial Day,44914314.0,103.0,Solo: A Star Wars Story,18596323.0
+2018,Memorial Day Weekend,226988305.0,108.0,Solo: A Star Wars Story,103016812.0
+2018,Easter,35195268.0,57.0,Ready Player One,11158819.0
+2018,Easter Weekend,154921251.0,59.0,Ready Player One,47005514.0
+2018,President's Day,59897487.0,83.0,Black Panther,40151729.0
+2018,President's Day Weekend,346075601.0,91.0,Black Panther,242155680.0
+2018,MLK Day,36882459.0,68.0,Jumanji: Welcome to the Jungle,7074723.0
+2018,MLK Day Weekend,195812771.0,76.0,Jumanji: Welcome to the Jungle,35176695.0
+2018,New Year's Day,59384380.0,62.0,Jumanji: Welcome to the Jungle,16222389.0
+2018,New Year Weekend,288846349.0,53.0,Aquaman,78503988.0
+2019,New Year's Eve,43962854.0,54.0,Star Wars: Episode IX - The Rise of Skywalker,13217698.0
+2019,Christmas Day,78632563.0,54.0,Star Wars: Episode IX - The Rise of Skywalker,32165681.0
+2019,Post-Thanksgiving Weekend,90326095.0,87.0,Frozen II,35165614.0
+2019,Thanksgiving Weekend,180855568.0,90.0,Frozen II,85977773.0
+2019,Thanksgiving 4-Day Weekend,215903776.0,54.0,Frozen II,100938241.0
+2019,Thanksgiving,35370976.0,52.0,Frozen II,14960468.0
+2019,Thanksgiving 5-Day Weekend,262269314.0,58.0,Frozen II,125018787.0
+2019,Halloween,9536976.0,54.0,Joker,1886940.0
+2019,Indigenous People's Day,20973935.0,56.0,Joker,8345763.0
+2019,Indigenous People's Day Weekend,161052554.0,59.0,Joker,64207166.0
+2019,Labor Day,28378818.0,57.0,Angel Has Fallen,3575630.0
+2019,Labor Day Weekend,120764144.0,82.0,Angel Has Fallen,15375039.0
+2019,Independence Day,46565065.0,54.0,Spider-Man: Far from Home,25720128.0
+2019,Memorial Day,49413282.0,52.0,Aladdin,25305033.0
+2019,Memorial Day Weekend,230819376.0,97.0,Aladdin,116805962.0
+2019,Easter,24977589.0,70.0,The Curse of La Llorona,5637706.0
+2019,Easter Weekend,121560823.0,74.0,The Curse of La Llorona,28605664.0
+2019,President's Day,26069665.0,63.0,The Lego Movie 2: The Second Part,6948824.0
+2019,President's Day Weekend,152447001.0,86.0,Alita: Battle Angel,33534100.0
+2019,MLK Day,32478230.0,51.0,Glass,6176030.0
+2019,MLK Day Weekend,162367073.0,69.0,Glass,46504950.0
+2019,New Year's Day,59578286.0,53.0,Aquaman,16377779.0
+2020,New Year's Eve,2933369.0,17.0,Wonder Woman 1984,1378106.0
+2020,Christmas Day,10214882.0,27.0,Wonder Woman 1984,7482427.0
+2020,Post-Thanksgiving Weekend,8397393.0,41.0,The Croods: A New Age,4439855.0
+2020,Thanksgiving Weekend,14152936.0,41.0,The Croods: A New Age,9724200.0
+2020,Thanksgiving 4-Day Weekend,17660248.0,29.0,The Croods: A New Age,12393840.0
+2020,Thanksgiving,3570668.0,27.0,The Croods: A New Age,2669640.0
+2020,Thanksgiving 5-Day Weekend,20251599.0,36.0,The Croods: A New Age,14274455.0
+2020,Halloween,3791211.0,35.0,Come Play,1331245.0
+2020,Indigenous People's Day,1001260.0,29.0,The War with Grandpa,424613.0
+2020,Indigenous People's Day Weekend,11259812.0,32.0,The War with Grandpa,4048493.0
+2020,Labor Day,3647082.0,13.0,Tenet,2275661.0
+2020,Labor Day Weekend,19858242.0,25.0,Tenet,11628751.0
+2020,Independence Day,74261.0,9.0,Relic,48259.0
+2020,Memorial Day,21831.0,6.0,The Wretched,20046.0
+2020,Memorial Day Weekend,240390.0,6.0,The Wretched,236334.0
+2020,Easter,564.0,2.0,The Other Lamb,282.0
+2020,Easter Weekend,3675.0,2.0,Swallow,1986.0
+2020,President's Day,26970250.0,54.0,Sonic the Hedgehog,11983726.0
+2020,President's Day Weekend,182920720.0,78.0,Sonic the Hedgehog,70002074.0
+2020,MLK Day,38928355.0,56.0,Bad Boys for Life,10529839.0
+2020,MLK Day Weekend,205302432.0,61.0,Bad Boys for Life,73033944.0
+2020,New Year's Day,56507431.0,54.0,Star Wars: Episode IX - The Rise of Skywalker,17076472.0
+2021,New Year's Eve,28345913.0,25.0,Spider-Man: No Way Home,15407695.0
+2021,Christmas Day,58100508.0,26.0,Spider-Man: No Way Home,31609749.0
+2021,Post-Thanksgiving Weekend,52704939.0,47.0,Encanto,13147618.0
+2021,Thanksgiving Weekend,96526140.0,51.0,Encanto,27206494.0
+2021,Thanksgiving 4-Day Weekend,116694008.0,38.0,Encanto,33014052.0
+2021,Thanksgiving,20380609.0,35.0,Encanto,5807558.0
+2021,Thanksgiving 5-Day Weekend,142082464.0,42.0,Encanto,40567273.0
+2021,Halloween,16292807.0,34.0,Dune: Part One,3958751.0
+2021,Indigenous People's Day,14257686.0,29.0,No Time to Die,6938476.0
+2021,Indigenous People's Day Weekend,122533028.0,34.0,No Time to Die,62163483.0
+2021,Labor Day,27956357.0,29.0,Shang-Chi and the Legend of the Ten Rings,19284160.0
+2021,Labor Day Weekend,139020923.0,48.0,Shang-Chi and the Legend of the Ten Rings,94672848.0
+2021,Independence Day,13942768.0,29.0,F9: The Fast Saga,5278700.0
+2021,Independence Day Weekend,87171208.0,46.0,F9: The Fast Saga,29101290.0
+2021,Memorial Day,16921053.0,29.0,A Quiet Place Part II,9541717.0
+2021,Memorial Day Weekend,97874228.0,45.0,A Quiet Place Part II,57088948.0
+2021,Easter,9926895.0,28.0,Godzilla vs. Kong,7102754.0
+2021,Easter Weekend,47518581.0,28.0,Godzilla vs. Kong,34199668.0
+2021,President's Day,1442792.0,23.0,The Croods: A New Age,500440.0
+2021,President's Day Weekend,13132939.0,32.0,The Croods: A New Age,2580265.0
+2021,MLK Day,1980358.0,19.0,The Croods: A New Age,506755.0
+2021,MLK Day Weekend,12907583.0,21.0,The Marksman,3503257.0
+2021,New Year's Day,4669052.0,22.0,Wonder Woman 1984,2060272.0
+2022,New Year's Eve,28295543.0,31.0,Avatar: The Way of Water,18053159.0
+2022,Christmas Day,43796821.0,28.0,Avatar: The Way of Water,29179791.0
+2022,Christmas Weekend,142814390.0,33.0,Avatar: The Way of Water,95608650.0
+2022,Post-Thanksgiving Weekend,52669526.0,54.0,Black Panther: Wakanda Forever,17540051.0
+2022,Thanksgiving Weekend,93780231.0,49.0,Black Panther: Wakanda Forever,45583904.0
+2022,Thanksgiving 4-Day Weekend,111394577.0,36.0,Black Panther: Wakanda Forever,53747987.0
+2022,Thanksgiving,17723816.0,31.0,Black Panther: Wakanda Forever,8164083.0
+2022,Thanksgiving 5-Day Weekend,134030714.0,37.0,Black Panther: Wakanda Forever,63800856.0
+2022,Halloween,7440404.0,34.0,Black Adam,1977587.0
+2022,Indigenous People's Day,8616769.0,39.0,Smile,2665031.0
+2022,Indigenous People's Day Weekend,67265387.0,45.0,Smile,21207599.0
+2022,Labor Day,15686573.0,42.0,Top Gun: Maverick,1906497.0
+2022,Labor Day Weekend,71172772.0,55.0,Top Gun: Maverick,7920625.0
+2022,Independence Day,33658614.0,27.0,Minions: The Rise of Gru,16077100.0
+2022,Independence Day Weekend,223580059.0,40.0,Minions: The Rise of Gru,123087240.0
+2022,Memorial Day,46104550.0,35.0,Top Gun: Maverick,33807521.0
+2022,Memorial Day Weekend,223364859.0,47.0,Top Gun: Maverick,160514980.0
+2022,Easter,24558467.0,27.0,Fantastic Beasts: The Secrets of Dumbledore,8313094.0
+2022,Easter Weekend,119498996.0,28.0,Fantastic Beasts: The Secrets of Dumbledore,45832542.0
+2022,President's Day,16906848.0,39.0,Uncharted,7305676.0
+2022,President's Day Weekend,111455709.0,51.0,Uncharted,51315831.0
+2022,MLK Day,13547490.0,27.0,Spider-Man: No Way Home,4555918.0
+2022,MLK Day Weekend,85074757.0,37.0,Scream,33855611.0
+2022,New Year's Day,40328448.0,26.0,Spider-Man: No Way Home,23112936.0
+2022,New Year Weekend,136047635.0,39.0,Avatar: The Way of Water,88820777.0
+2023,New Year's Eve,25921809.0,43.0,Wonka,5208897.0
+2023,Christmas Day,63181592.0,44.0,The Color Purple,18151050.0
+2023,Christmas Weekend,157512234.0,47.0,Aquaman and the Lost Kingdom,38133816.0
+2023,Post-Thanksgiving Weekend,97128796.0,54.0,Renaissance: A Film by Beyoncé,21801216.0
+2023,Thanksgiving Weekend,115988162.0,55.0,The Hunger Games: The Ballad of Songbirds & Snakes,29042517.0
+2023,Thanksgiving 4-Day Weekend,138577426.0,39.0,The Hunger Games: The Ballad of Songbirds & Snakes,34924898.0
+2023,Thanksgiving,22732139.0,33.0,The Hunger Games: The Ballad of Songbirds & Snakes,5882381.0
+2023,Thanksgiving 5-Day Weekend,173232838.0,43.0,The Hunger Games: The Ballad of Songbirds & Snakes,42206080.0
+2023,Halloween,10319901.0,36.0,Five Nights at Freddy's,5249255.0
+2023,Indigenous People's Day,10022782.0,45.0,The Exorcist: Believer,2381205.0
+2023,Indigenous People's Day Weekend,82603687.0,49.0,The Exorcist: Believer,28878805.0
+2023,Labor Day,25795986.0,40.0,The Equalizer 3,8211204.0
+2023,Labor Day Weekend,115071858.0,61.0,The Equalizer 3,42815433.0
+2023,Independence Day,40231019.0,24.0,Sound of Freedom,14242063.0
+2023,Independence Day Weekend,196326530.0,30.0,Indiana Jones and the Dial of Destiny,83860951.0
+2023,Memorial Day,40549480.0,36.0,The Little Mermaid,23240863.0
+2023,Memorial Day Weekend,203750914.0,61.0,The Little Mermaid,118818903.0
+2023,Easter,48714791.0,36.0,The Super Mario Bros. Movie,34567680.0
+2023,Easter Weekend,231916311.0,39.0,The Super Mario Bros. Movie,166472810.0
+2023,President's Day,22125148.0,36.0,Ant-Man and the Wasp: Quantumania,14284967.0
+2023,President's Day Weekend,166970765.0,57.0,Ant-Man and the Wasp: Quantumania,120394617.0
+2023,MLK Day,21708737.0,32.0,Avatar: The Way of Water,7056071.0
+2023,MLK Day Weekend,124779112.0,43.0,Avatar: The Way of Water,39880755.0
+2023,New Year's Day,36533901.0,31.0,Avatar: The Way of Water,24519161.0
+2023,New Year Weekend,145153773.0,53.0,Wonka,29113968.0
+2024,New Year's Eve,31216937.0,40.0,Sonic the Hedgehog 3,7274167.0
+2024,Christmas Day,60923526.0,39.0,Mufasa: The Lion King,14722175.0
+2024,Post-Thanksgiving Weekend,137239986.0,68.0,Moana 2,51287053.0
+2024,Thanksgiving Weekend,276799127.0,53.0,Moana 2,139787385.0
+2024,Thanksgiving 4-Day Weekend,333484695.0,36.0,Moana 2,167571983.0
+2024,Thanksgiving,56869961.0,31.0,Moana 2,27784598.0
+2024,Thanksgiving 5-Day Weekend,423943589.0,39.0,Moana 2,225441826.0
+2024,Halloween,8535276.0,45.0,Venom: The Last Dance,2802359.0
+2024,Indigenous People's Day,12712199.0,44.0,The Wild Robot,3506865.0
+2024,Indigenous People's Day Weekend,85740787.0,52.0,Terrifier 3,21522715.0
+2024,Labor Day,23362046.0,44.0,Deadpool & Wolverine,4096817.0
+2024,Labor Day Weekend,104893099.0,58.0,Deadpool & Wolverine,19566129.0
+2024,Independence Day,42120106.0,35.0,Despicable Me 4,20398275.0
+2024,Memorial Day,30416681.0,31.0,The Garfield Movie,7249276.0
+2024,Memorial Day Weekend,132272874.0,54.0,Furiosa: A Mad Max Saga,32343145.0
+2024,Easter,30779437.0,43.0,Godzilla x Kong: The New Empire,16784910.0
+2024,Easter Weekend,152655647.0,46.0,Godzilla x Kong: The New Empire,87757888.0
+2024,President's Day,15301412.0,43.0,Bob Marley: One Love,4974818.0
+2024,President's Day Weekend,94237683.0,51.0,Bob Marley: One Love,33633822.0
+2024,MLK Day,19947590.0,44.0,Mean Girls,4975603.0
+2024,MLK Day Weekend,116912802.0,52.0,Mean Girls,33610910.0
+2024,New Year's Day,32233522.0,45.0,Wonka,6636962.0
