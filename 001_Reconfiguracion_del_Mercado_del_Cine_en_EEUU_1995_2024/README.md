@@ -42,6 +42,8 @@ El estudio integra múltiples fuentes y técnicas:
 ---
 ## Autor y contacto
 **Martín Nicolás Serafini**
+
 Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial
 2025 — Buenos Aires, Argentina
+
 **Linkedin:** [Link](https://www.linkedin.com/in/martin-nicolas-serafini-05224923b/)
