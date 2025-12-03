@@ -20,15 +20,20 @@ Los datos públicos oficiales, si bien confiables en su origen, suelen presentar
 - variaciones intermensuales o interanuales ausentes o con menor precisión decimal;
 - estructuras y nomenclaturas desiguales entre series.
 
-El proceso de ETL aplicado busca:
+1. El proceso de ETL aplicado busca:
 
-- unificar todos los formatos de fecha a un **único estándar `datetime`**;
-- homogeneizar nombres de columnas y unidades;
-- recalcular variaciones con una metodología consistente y más precisa;
-- detectar inconsistencias o registros atípicos, incluso en fuentes oficiales;
-- preparar las series para análisis comparables y visualizaciones futuras.
+    - unificar todos los formatos de fecha a un **único estándar `datetime`**;
+    - homogeneizar nombres de columnas y unidades;
+    - recalcular variaciones con una metodología consistente y más precisa;
+    - detectar inconsistencias o registros atípicos, incluso en fuentes oficiales;
+    - preparar las series para análisis comparables y visualizaciones futuras.
 
-Este enfoque pone el énfasis no solo en “limpiar datos”, sino en **comprender su estructura y lógica de origen** para fortalecer la calidad analítica.
+    Este enfoque pone el énfasis no solo en “limpiar datos”, sino en **comprender su estructura y lógica de origen** para fortalecer la calidad analítica.
+
+2. Interfaz interactiva:
+     - eleccion de multiples fuentes de datos en funcion de rangos de fechas elegidos.
+     - eleccion de estilos y visuales.
+     - descarga de las graficas y los .CSV generados. 
 
 ---
 
@@ -40,22 +45,19 @@ Incluye únicamente datasets descargados directamente desde el portal del INDEC,
 ### `data_clean/`
 Contiene los mismos datasets luego de la normalización, estandarización y cálculos derivados.
 
+### `notebooks/`
+Contiene los cuadernos de Google Colab con el desarrollo del proyectoi.
+
 ---
 
 ## Etapas Futuras
 
 El proyecto incorporará progresivamente:
 
-### 1. Código del ETL
-
-### 2. Aplicación interactiva
-Una aplicación (Gradio o Streamlit) que permitirá:
-
-- seleccionar series del INDEC u otros organismos,
-- graficarlas en una línea de tiempo unificada,
-- compararlas,
-- descargar gráficos y datasets listos para análisis.
-
+1. Código del ETL: Una vez que complete la etapa de normalizacion de los distintos datasets se adjuntara el codigo completo.
+2. Visualizacion: Mejoras en el entorno y opciones de personalizacion.
+3. Generacion de una interfaz web
+   
 ---
 
 ## 📝 Estado del Proyecto
@@ -64,7 +66,7 @@ Una aplicación (Gradio o Streamlit) que permitirá:
 ✔️ Publicación de datos crudos y limpios  
 ✔️ Identificación y reporte de inconsistencias (incluido un caso confirmado por INDEC)  
 ⏳ Incorporación del código ETL  
-⏳ Desarrollo de la app interactiva  
+✔️ Desarrollo de la app interactiva  
 ⏳ Documentación técnica extendida
 
 ---
@@ -86,7 +88,7 @@ Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial
 
 ## 📄 Licencia
 
-Este proyecto se distribuye bajo licencia **MIT**.
+Dada la caracteristica de la fuente de datos incorporadas, este proyecto se distribuye bajo licencia Creative Commons CC BY-SA 4.0.
 
 
 
