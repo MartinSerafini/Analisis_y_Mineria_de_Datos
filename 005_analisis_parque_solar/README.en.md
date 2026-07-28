@@ -60,9 +60,6 @@ solar-park-fault-analysis/
 - Co-occurrence analysis to distinguish systemic causes from local inverter vulnerabilities.
 - F24 analysis uses the calendar day as the unit of analysis — hourly observations within the same day are not independent.
 
-**Methodological note on F24 timing**  
-Event timestamps use the actual fault opening time (`hora_abierta`) rather than the normalized reference time, correcting a potential bias of up to 59 minutes in minutes-since-sunrise calculations. With this correction: median on fault days = −7 min (before sunrise); median on fault-free days = +14 min.
-
 ---
 
 ## Scope
