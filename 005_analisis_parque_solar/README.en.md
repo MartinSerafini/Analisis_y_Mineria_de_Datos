@@ -1,6 +1,6 @@
 > 🇦🇷 [Versión en castellano](README.md)
 
-# Solar Park Fault Analysis — Entre Rios, Argentina
+# Solar Park Fault Analysis — Entre Ríos, Argentina
 
 Exploratory analysis of the fault log from a photovoltaic solar park in Entre Ríos, Argentina. The goal is to support the transition from reactive to data-driven preventive maintenance.
 
